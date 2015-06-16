@@ -14,6 +14,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 PRODUCT_GMS_CLIENTID_BASE := android-verizon
 
-PRODUCT_NAME := fusionsp_jfltevzw
+PRODUCT_NAME := jfltevzw
 PRODUCT_DEVICE := jfltevzw
 
